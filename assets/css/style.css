@@ -1,0 +1,188 @@
+
+
+body {
+    background: black;
+}
+
+
+.welcome-title-area {
+    /* margin-top: 50px; */
+    background: red;
+    /* height: 80px; */
+    width: 100%;
+}
+
+.welcome-title {
+    font-size: 46px;
+    color: yellow;
+    padding: 10px;
+}
+
+.welcome-image-area {
+    
+    /* width: 80%; */
+    /* height: auto; */
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.welcome-image {
+    width: 80%;
+    height: auto;
+
+}
+
+
+.start {
+    border: 2px solid yellow;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 25px;
+    width: 170px;
+    color: yellow;
+    background: red;
+}
+
+/* game screen  */
+
+.game-title-area {
+    /* margin-top: 50px; */
+    background: red;
+  
+    width: 100%;
+}
+
+.game-title {
+    font-size: 30px;
+    color: yellow;
+    padding: 5px;
+}
+
+.game-image-area {
+    /* width: 80%;
+    height: auto; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.show-image {
+    max-width: 80%;
+    max-height:480px;
+}
+
+.show-choices {
+    font-size: 30px;
+    font-weight: bolder;
+    color: yellow;
+}
+
+
+/* correct screen  */
+
+
+.correct-title-area {
+    /* margin-top: 50px; */
+    /* background: red; */
+    /* height: 80px; */
+    width: 100%;
+}
+
+.correct-title {
+    font-size: 32px;
+    color: yellow;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.correct-image-area {
+    
+    /* width: 80%; */
+    /* height: auto; */
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.show-image-again {
+    max-width: 80%;
+    max-height: 480px;
+
+}
+
+.show-name {
+    color: yellow;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+/* transtion screen  */
+
+.transition-title {
+    margin-top: 30px;
+    color: yellow;
+    font-size: 30px;
+    font-weight: bold;
+
+}
+
+.transition-image {
+    margin-top: 30px;
+    max-width: 80%;
+    max-height: 480px;
+
+
+}
+
+/* results screen  */
+
+.results-title {
+    margin-top: 20px;
+    color: yellow;
+    font-size: 30px;
+    font-weight: bolder;
+
+}
+
+.grade {
+    margin-top: 10px;
+    color: red;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.loser {
+    font-size: 44px;
+    font-weight: bolder;
+
+}
+.correct-line,
+.correct {
+    padding: 3px;
+    color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.incorrect, 
+.incorrect-line {
+    margin-top: 5px;
+    padding: 3px;
+    color: yellow;
+    font-size: 25px;
+    font-weight: bold;
+   
+}
+
+.reset-button {
+    margin-top: 15px;
+    border: 2px solid yellow;
+    padding: 10px;
+    font-size: 30px;
+    border-radius: 25px;
+    width: 170px;
+    color: yellow;
+    background: red;
+}
